@@ -25,5 +25,14 @@
         "Address": "",
         "Phone": "079120788",
         "Price_type_id": ""
+    },
+    {
+        "Id": "228.1337",
+        "Client_type": 1,
+        "Fcod": "1014600026167",
+        "Client_name": "\"AKSAV-GROUP\" S.R.L.1",
+        "Address": "",
+        "Phone": "079120788",
+        "Price_type_id": ""
     }
 ]
